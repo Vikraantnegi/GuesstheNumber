@@ -4,11 +4,15 @@
 }
 
 #history {
-    margin-top: 20px;
+    margin-top: 15px;
 }
   
 .banner {
     color: #FFD23F;
     font-size: 96px;
     font-family: sans-serif;
+}
+
+button{
+    /* box shadow */
 }
