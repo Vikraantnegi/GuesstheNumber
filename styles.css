@@ -1,0 +1,14 @@
+#number-guess, #result, #history {
+    max-width: 480px;
+    margin: 0 auto;
+}
+
+#history {
+    margin-top: 20px;
+}
+  
+.banner {
+    color: #FFD23F;
+    font-size: 96px;
+    font-family: sans-serif;
+}
