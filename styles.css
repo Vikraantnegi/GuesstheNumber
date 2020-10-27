@@ -1,5 +1,14 @@
-#number-guess, #result, #history {
+#number-guess, #result, #result1, #history {
     max-width: 480px;
+    margin: 0 auto;
+}
+
+#number-guess{    
+    box-shadow: 2px 2px rgba(0,0,0,0.2);
+}
+
+.navbar-brand {
+    max-width: 960px;
     margin: 0 auto;
 }
 
@@ -14,5 +23,6 @@
 }
 
 button{
-    /* box shadow */
+    box-shadow: 2px 2px rgba(0,0,0,0.2);
+    margin-right: 10px;
 }
