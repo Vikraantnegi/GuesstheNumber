@@ -13,7 +13,7 @@
 }
 
 #history {
-    margin-top: 15px;
+    margin-top: 20px;
 }
   
 .banner {
@@ -25,4 +25,9 @@
 button{
     box-shadow: 2px 2px rgba(0,0,0,0.2);
     margin-right: 10px;
+}
+
+.btn:focus{
+    border: none;
+    outline: none;
 }
